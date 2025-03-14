@@ -1,0 +1,1 @@
+print ("pendeta awan saja")
